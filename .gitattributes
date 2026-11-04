@@ -2,3 +2,4 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
 Soldier-2008-1.2.0-dev-test13-INSTALL.zip filter=lfs diff=lfs merge=lfs -text
 shitty[[:space:]]references[[:space:]]for[[:space:]]ai.zip filter=lfs diff=lfs merge=lfs -text
+Soldier-2008-1.2.0-dev-test17c-INSTALL.zip filter=lfs diff=lfs merge=lfs -text
